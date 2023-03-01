@@ -1,0 +1,24 @@
+.stylinglogo{
+	height: 80px;
+	width: 150px;
+	padding: 8px;
+}
+#go{
+	background-color: white;
+	color: #323f4b;
+	padding: 5px;
+	border-radius: 7px;
+	font-family: 'roboto';
+	font-family: bold;
+	border: 0px;
+}
+#go:hover {
+background-color: #323f4b;
+color: white;
+border-radius: 7px;
+border: 0px;
+}
+.gradient2{
+	background-image: linear-gradient(to top,#03fc0b,#fcf403,#036ffc);
+	height: 100vh;
+}
